@@ -111,7 +111,7 @@ Casino featuring slot games, restaurants & a harness racing track with a 1,000-s
 ZipZone is a one of a kind, outdoor experience located right in the heart of Columbus, Ohio. Offering zip line tours, a tree top obstacle course, and a ground level kids park, ZipZone offers unique adventures for the whole family. Using only top of the line equipment, our highly trained staff work hard to make sure guests have a great time no matter which adventure they choose. Locally owned and operated since 2012.
 
 ## 13. Columbus Symphony Orchestra
-[Orchestra Events]((https://columbussymphony.com/events))
+[Orchestra Events](https://columbussymphony.com/events)
 
 Since 1951, the Columbus Symphony (CSO) has been proud to serve as central Ohio’s flagship music performance organization. The CSO’s musicians, conductors, chorus, and world-renowned guest artists enrich the central Ohio community through extraordinary talent, passion, dedication, and the highest standards of musicianship. Living and working in the community, CSO musicians are interwoven throughout the region’s cultural fabric, accompanying performances by other companies, performing in other local orchestras, and teaching and coaching young musicians.
 
