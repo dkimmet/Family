@@ -40,14 +40,14 @@ A riverfront park with beautiful views of the skyline.Visit the Ohio Statehouse,
 - Tours
   
 
-## 2. German Village
+## 2. 🇩🇪 German Village
 [German Village Website](https://www.experiencecolumbus.com/neighborhoods/german-village-and-brewery-district/)
 
 Just south of downtown Columbus lies German Village, one of the most idyllic neighborhoods in the country. Built by German settlers hundreds of years ago, the area is defined by its brick homes and shops, as well as brick-lined streets. Historic charm and modern tweaks exist side by side here. Peruse local businesses that include delicious pastry and coffee shops, the truly unique 32-room Book Loft , free Shakespeare at the neighborhood’s Schiller Park and beautiful holiday lights and markets during the winter.
 
 
 
-## 3. Columbus Zoo
+## 3. 🐘 Columbus Zoo
 [Columbus Zoo](https://www.columbuszoo.org/)
 
 Spend a day at the Columbus Zoo and Aquarium, one of the best zoos in the country, known for its extensive collection of animals and conservation efforts.Enjoy the various exhibits, shows, and encounters with animals.
