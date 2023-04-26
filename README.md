@@ -1,6 +1,5 @@
-## Table of contents
-1. [Scioto Audubon Metro Park/Scioto mile](#1-scioto-audubon-metro-parkscioto-mile)
-2. [German Village](#2-german-village)
+- [1. Scioto Audubon Metro Park/Scioto mile](#1-scioto-audubon-metro-parkscioto-mile)
+- [2. German Village](#2-german-village)
 - [3. Columbus Zoo](#3-columbus-zoo)
 - [4. Zoombezi Bay Waterpark After Dark (AUG 18 -8:00 p.m. – 11:00 p.m.) $35.00](#4-zoombezi-bay-waterpark-after-dark-aug-18--800-pm--1100-pm-3500)
 - [5. Art and Culture Day](#5-art-and-culture-day)
