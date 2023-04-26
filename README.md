@@ -234,7 +234,7 @@ Located along the beautiful Scioto Mile downtown riverfront in Columbus, Ohio.
 - Discover the Ohio State Fair, a favorite family tradition since 1850! Come for the Midway, featuring more than 50 exhilarating rides, and unleash all the fair flavors on your tastebuds with your favorite goodies from one of the amazing food vendors!
 - Experience free stages with amazing hypnotists, impressive magicians and wholesome kids' entertainment. Immerse yourself in activities and exhibits including interactive educational displays, sporting competitions, fine arts show, exotic animals in the free petting zoo, a farm animal delivery room, helicopter rides, roving performers, youth agricultural competitions, horse shows, an eight acre natural resources park with free kiddie fishing, wildlife and so much more!
 
-## 28. 16-bit Bar+Arcade or Level one Bar
+## 28. 🕹️ 16-bit Bar+Arcade or Level one Bar
 [16-bit Bar+Arcade Website](https://www.16-bitbar.com/)
 
 [Level one Bar Website](http://level1bar.com/)
