@@ -1,4 +1,4 @@
-- [1. 🌲 Scioto Audubon Metro Park/Scioto mile](#1-scioto-audubon-metro-parkscioto-mile)
+- [1. Scioto Audubon Metro Park/Scioto mile](#1-scioto-audubon-metro-parkscioto-mile)
 - [2. German Village](#2-german-village)
 - [3. Columbus Zoo](#3-columbus-zoo)
 - [4. Zoombezi Bay Waterpark After Dark (AUG 18 -8:00 p.m. – 11:00 p.m.) $35.00](#4-zoombezi-bay-waterpark-after-dark-aug-18--800-pm--1100-pm-3500)
@@ -31,7 +31,7 @@
 
 ---
 
-## 1. Scioto Audubon Metro Park/Scioto mile
+## 1. 🌲 Scioto Audubon Metro Park/Scioto mile
 [Scioto website](https://www.metroparks.net/parks-and-trails/scioto-audubon/#canoeing-kayaking)
 
 A riverfront park with beautiful views of the skyline.Visit the Ohio Statehouse, a historic landmark that offers guided tours.
