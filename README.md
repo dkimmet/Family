@@ -1,4 +1,4 @@
-- [1. 🌲 Scioto Audubon Metro Park/Scioto mile](#1-🌲-scioto-audubon-metro-parkscioto-mile)
+- [1. Scioto Audubon Metro Park/Scioto mile](#1-scioto-audubon-metro-parkscioto-mile)
 - [2. German Village](#2-german-village)
 - [3. Columbus Zoo](#3-columbus-zoo)
 - [4. Zoombezi Bay Waterpark After Dark (AUG 18 -8:00 p.m. – 11:00 p.m.) $35.00](#4-zoombezi-bay-waterpark-after-dark-aug-18--800-pm--1100-pm-3500)
@@ -31,7 +31,7 @@
 
 ---
 
-## 1. 🌲 Scioto Audubon Metro Park/Scioto mile
+## 1. Scioto Audubon Metro Park/Scioto mile
 [Scioto website](https://www.metroparks.net/parks-and-trails/scioto-audubon/#canoeing-kayaking)
 
 A riverfront park with beautiful views of the skyline.Visit the Ohio Statehouse, a historic landmark that offers guided tours.
@@ -40,19 +40,19 @@ A riverfront park with beautiful views of the skyline.Visit the Ohio Statehouse,
 - Tours
   
 
-## 2. 🇩🇪 German Village
+## 2. German Village
 [German Village Website](https://www.experiencecolumbus.com/neighborhoods/german-village-and-brewery-district/)
 
 Just south of downtown Columbus lies German Village, one of the most idyllic neighborhoods in the country. Built by German settlers hundreds of years ago, the area is defined by its brick homes and shops, as well as brick-lined streets. Historic charm and modern tweaks exist side by side here. Peruse local businesses that include delicious pastry and coffee shops, the truly unique 32-room Book Loft , free Shakespeare at the neighborhood’s Schiller Park and beautiful holiday lights and markets during the winter.
 
 
 
-## 3. 🐘 Columbus Zoo
+## 3. Columbus Zoo
 [Columbus Zoo](https://www.columbuszoo.org/)
 
 Spend a day at the Columbus Zoo and Aquarium, one of the best zoos in the country, known for its extensive collection of animals and conservation efforts.Enjoy the various exhibits, shows, and encounters with animals.
 
-## 4. 🌊 Zoombezi Bay Waterpark After Dark (AUG 18 -8:00 p.m. – 11:00 p.m.) $35.00
+## 4. Zoombezi Bay Waterpark After Dark (AUG 18 -8:00 p.m. – 11:00 p.m.) $35.00
 
 [Event Website](https://www.columbuszoo.org/events/zoombezi-bay-waterpark-after-dark-0)
 
@@ -62,35 +62,35 @@ Enjoy some of Zoombezi Bay’s most popular water attractions after dark with on
 
 Tickets are limited and will only be sold online, so act fast and get yours today. Must be 21+. Zoo admission not included (the Zoo will be closed). Parking is complimentary.
 
-## 5. 🎭 Art and Culture Day
+## 5. Art and Culture Day
 
 - Visit the Columbus Museum of Art, known for its diverse collection of American and European art, as well as its contemporary works.
 - Explore the Franklin Park Conservatory and Botanical Gardens, featuring beautiful botanical displays, art installations, and outdoor gardens.
 - Catch a performance at the historic Ohio Theatre, a beautifully restored theater that hosts concerts, Broadway shows, and other performances.
 
-## 6. ⚽ Columbus Crew (July 23, 31)
+## 6. Columbus Crew (July 23, 31)
 [Schedule Website](https://www.columbuscrew.com/schedule/matches#competition=all&date=2023-04-26)
 - Home Games: 
   - July 23 - St. Louis - TBA
   - July 31 - América - TBA
 
 
-## 7. ⚾ Columbus Clippers
+## 7. Columbus Clippers
 [Schedule Website](https://www.milb.com/columbus/schedule/2023-07)
 
-## 8. 🥾 Day trip to Hocking Hills State Park
+## 8. Day trip to Hocking Hills State Park
 [Park Website](https://ohiodnr.gov/go-and-do/plan-a-visit/find-a-property/hocking-hills-state-park)
 
 - Take a day trip to Hocking Hills State Park, located about an hour's drive from Columbus.
 - Explore the park's stunning natural features, including waterfalls, caves, and hiking trails.
 - Go hiking, rock climbing, or zip-lining, and enjoy the beautiful scenery of this picturesque park.
 
-## 9. 🍺 Brewery District/ Distillery Tour
+## 9. Brewery District/ Distillery Tour
 [District Website](https://columbusbrewerydistrict.com/)
 
 In the hip Brewery District, craft beer bars and music venues occupy converted Victorian breweries. The area’s lively dining scene encompasses gastropubs, tapas spots, and farm-to-table restaurants. Shadowbox Live stages experimental theater, comedy, and dance.
 
-## 10. 🥖 Columbus Commons - multiple events/food
+## 10. Columbus Commons - multiple events/food
 [Commons Website](https://columbuscommons.org/)
 - TORTILLA STREET FOOD
 - JENI'S SCOOP SHOP
@@ -100,7 +100,7 @@ In the hip Brewery District, craft beer bars and music venues occupy converted V
 - BREWS IN THE BOSQUE
 - LOCAL + LIVE CONCERT: MOUNTAIN ROCK + COUNTRY
 
-## 11. 🎲 Miami Valley Gaming
+## 11. Miami Valley Gaming
 [Miami Valley Gaming Website](https://miamivalleygaming.com/)
 
 Casino featuring slot games, restaurants & a harness racing track with a 1,000-seat grandstand.
@@ -234,7 +234,7 @@ Located along the beautiful Scioto Mile downtown riverfront in Columbus, Ohio.
 - Discover the Ohio State Fair, a favorite family tradition since 1850! Come for the Midway, featuring more than 50 exhilarating rides, and unleash all the fair flavors on your tastebuds with your favorite goodies from one of the amazing food vendors!
 - Experience free stages with amazing hypnotists, impressive magicians and wholesome kids' entertainment. Immerse yourself in activities and exhibits including interactive educational displays, sporting competitions, fine arts show, exotic animals in the free petting zoo, a farm animal delivery room, helicopter rides, roving performers, youth agricultural competitions, horse shows, an eight acre natural resources park with free kiddie fishing, wildlife and so much more!
 
-## 28. 🕹️ 16-bit Bar+Arcade or Level one Bar
+## 28. 16-bit Bar+Arcade or Level one Bar
 [16-bit Bar+Arcade Website](https://www.16-bitbar.com/)
 
 [Level one Bar Website](http://level1bar.com/)
