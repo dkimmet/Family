@@ -243,5 +243,3 @@ Located along the beautiful Scioto Mile downtown riverfront in Columbus, Ohio.
 ## 29. Reddit's Places to Visit and Eat
 
 [Visit and Eat](https://www.reddit.com/r/Columbus/wiki/index/#wiki_places_to_visit)
-
-push
