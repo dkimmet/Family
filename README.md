@@ -26,7 +26,8 @@
 - [26. Jazz and Rib Fest 2023 (July 21, 22, 23)](#26-jazz-and-rib-fest-2023-july-21-22-23)
 - [27. Ohio State Fair - JULY 26 - AUGUST 6, 2023](#27-ohio-state-fair---july-26---august-6-2023)
 - [28. 16-bit Bar+Arcade or Level one Bar](#28-16-bit-bararcade-or-level-one-bar)
-- [29. Reddit's Places to Visit and Eat](#29-reddits-places-to-visit-and-eat)
+- [29. Cincinnati Reds](#29-cincinnati-reds)
+- [30. Reddit's Places to Visit and Eat](#30-reddits-places-to-visit-and-eat)
 
 
 ---
@@ -238,8 +239,12 @@ Located along the beautiful Scioto Mile downtown riverfront in Columbus, Ohio.
 [16-bit Bar+Arcade Website](https://www.16-bitbar.com/)
 
 [Level one Bar Website](http://level1bar.com/)
-- 16-Bit Bar + Arcade redefines how a night out is best played. With a name coined from the computer architecture that several of our 40+ vintage arcade games were built on, 16-Bit appeals to those looking for an alternative to the monotonous. From bar-going veterans to young open-minded, beer-centric types, to arcade game novices and enthusiasts, the nostalgic and playful vibe is for players of all types. The time has come to relive your childhood and party like it’s 1999, or 1989 for that matter.
+  
+  16-Bit Bar + Arcade redefines how a night out is best played. With a name coined from the computer architecture that several of our 40+ vintage arcade games were built on, 16-Bit appeals to those looking for an alternative to the monotonous. From bar-going veterans to young open-minded, beer-centric types, to arcade game novices and enthusiasts, the nostalgic and playful vibe is for players of all types. The time has come to relive your childhood and party like it’s 1999, or 1989 for that matter.
 
-## 29. Reddit's Places to Visit and Eat
+## 29. Cincinnati Reds
+[Reds July Schedule](https://www.mlb.com/reds/schedule/2023-07)
+## 30. Reddit's Places to Visit and Eat
 
 [Visit and Eat](https://www.reddit.com/r/Columbus/wiki/index/#wiki_places_to_visit)
+
