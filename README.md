@@ -173,15 +173,18 @@ BASIC PARTY Pack
 
 ## 20. Topgolf
 [Topgolf Website](https://topgolf.com/us/columbus/)
-- Welcome to Topgolf Columbus, the premier entertainment destination in Columbus, OH. Enjoy our climate-controlled hitting bays for year-round comfort with HDTVs in every bay and throughout our sports bar and restaurant. Using our complimentary clubs or your own, take aim at the giant outfield targets and our high-tech balls will score themselves.
+
+Welcome to Topgolf Columbus, the premier entertainment destination in Columbus, OH. Enjoy our climate-controlled hitting bays for year-round comfort with HDTVs in every bay and throughout our sports bar and restaurant. Using our complimentary clubs or your own, take aim at the giant outfield targets and our high-tech balls will score themselves.
 
 ## 21. Cedar Point
 [Cedar Point Website](https://www.cedarpoint.com/)
-- If you're a thrill-seeker, visit Cedar Point, one of the top amusement parks in the world, located in Sandusky. With its world-class roller coasters and thrilling rides, Cedar Point is a must-visit for adrenaline junkies.
+  
+  If you're a thrill-seeker, visit Cedar Point, one of the top amusement parks in the world, located in Sandusky. With its world-class roller coasters and thrilling rides, Cedar Point is a must-visit for adrenaline junkies.
 
 ## 22. Ohio Amish Country
 [Amish Website](https://www.visitamishcountry.com/)
-- Explore Ohio's Amish Country, located in the northeastern part of the state. Experience the unique Amish culture, enjoy delicious homemade Amish food, shop for handmade crafts, and take a scenic drive through the picturesque countryside.
+  
+  Explore Ohio's Amish Country, located in the northeastern part of the state. Experience the unique Amish culture, enjoy delicious homemade Amish food, shop for handmade crafts, and take a scenic drive through the picturesque countryside.
 
 ## 23. Putt N Play
 [Putt N Play Website](puttnplayfuncenter.com)
@@ -232,8 +235,10 @@ Located along the beautiful Scioto Mile downtown riverfront in Columbus, Ohio.
 
 ## 27. Ohio State Fair - JULY 26 - AUGUST 6, 2023
 [Ohio State Fair Website](https://www.ohiostatefair.com/)
-- Discover the Ohio State Fair, a favorite family tradition since 1850! Come for the Midway, featuring more than 50 exhilarating rides, and unleash all the fair flavors on your tastebuds with your favorite goodies from one of the amazing food vendors!
-- Experience free stages with amazing hypnotists, impressive magicians and wholesome kids' entertainment. Immerse yourself in activities and exhibits including interactive educational displays, sporting competitions, fine arts show, exotic animals in the free petting zoo, a farm animal delivery room, helicopter rides, roving performers, youth agricultural competitions, horse shows, an eight acre natural resources park with free kiddie fishing, wildlife and so much more!
+
+  Discover the Ohio State Fair, a favorite family tradition since 1850! Come for the Midway, featuring more than 50 exhilarating rides, and unleash all the fair flavors on your tastebuds with your favorite goodies from one of the amazing food vendors!
+  
+  Experience free stages with amazing hypnotists, impressive magicians and wholesome kids' entertainment. Immerse yourself in activities and exhibits including interactive educational displays, sporting competitions, fine arts show, exotic animals in the free petting zoo, a farm animal delivery room, helicopter rides, roving performers, youth agricultural competitions, horse shows, an eight acre natural resources park with free kiddie fishing, wildlife and so much more!
 
 ## 28. 16-bit Bar+Arcade or Level one Bar
 [16-bit Bar+Arcade Website](https://www.16-bitbar.com/)
