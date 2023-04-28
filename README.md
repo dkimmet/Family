@@ -28,7 +28,7 @@
 - [28. 16-bit Bar+Arcade or Level one Bar](#28-16-bit-bararcade-or-level-one-bar)
 - [29. Cincinnati Reds](#29-cincinnati-reds)
 - [30. National Museum USAF](#30-national-museum-usaf)
-- [30. Reddit's Places to Visit and Eat](#30-reddits-places-to-visit-and-eat)
+- [31. Reddit's Places to Visit and Eat](#31-reddits-places-to-visit-and-eat)
 
 ---
 
@@ -281,6 +281,6 @@ Experience free stages with amazing hypnotists, impressive magicians and wholeso
 The National Museum of the U.S. Air Force, located at Wright-Patterson Air Force Base near Dayton, Ohio, is the world’s largest military aviation museum. With free admission and parking, the museum features more than 350 aerospace vehicles and missiles and thousands of artifacts amid more than 19 acres of indoor exhibit space.
 - Free
 
-## 30. Reddit's Places to Visit and Eat
+## 31. Reddit's Places to Visit and Eat
 
 [Visit and Eat](https://www.reddit.com/r/Columbus/wiki/index/#wiki_places_to_visit)
