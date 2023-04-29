@@ -57,9 +57,9 @@ Spend a day at the Columbus Zoo and Aquarium, one of the best zoos in the countr
 
 ## 4. Zoombezi Bay Waterpark After Dark (AUG 18 -8:00 p.m. – 11:00 p.m.) $35.00
 
-[Event Website](https://www.columbuszoo.org/events/zoombezi-bay-waterpark-after-dark-0)
+![zoombezi](/assets/ZB-summer.png)
 
-![crew](/assets/ZB-summer.png)
+[Event Website](https://www.columbuszoo.org/events/zoombezi-bay-waterpark-after-dark-0)
 
 Due to popular demand, Water Park After Dark is back in 2023!
 
@@ -73,20 +73,18 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 - Explore the Franklin Park Conservatory and Botanical Gardens, featuring beautiful botanical displays, art installations, and outdoor gardens.
 - Catch a performance at the historic Ohio Theatre, a beautifully restored theater that hosts concerts, Broadway shows, and other performances.
 
-## 6. Columbus Crew (July 23, 31) 
-
-
-[Schedule Website](https://www.columbuscrew.com/schedule/matches#competition=all&date=2023-04-26)
-
-[Virtual Seat Viewer](https://www.lowerfieldcbus.com/seatviewer/)
-
-[Pre book parking](https://arenadistrict.parkmobile.io/lower-com-field)
+## 6. Columbus Crew (July 23, 31)
 
 ![crew](/assets/crew2.png)
+
+[Schedule Website](https://www.columbuscrew.com/schedule/matches#competition=all&date=2023-04-26)
+[Virtual Seat Viewer](https://www.lowerfieldcbus.com/seatviewer/)
+[Pre book parking](https://arenadistrict.parkmobile.io/lower-com-field)
+
 - Home Games:
   - July 23 - St. Louis - TBA
   - July 31 - América - TBA
-- Tailgate in the lot north of the stadium or hit bars or restaurants in the arena district beforehand. 
+- Tailgate in the lot north of the stadium or hit bars or restaurants in the arena district beforehand.
 - Betty’s is fun to pre game by the stadium, cheap drinks
 - Cashless stadium
 
@@ -291,9 +289,11 @@ Experience free stages with amazing hypnotists, impressive magicians and wholeso
 [More Info](https://www.nationalmuseum.af.mil/Visit/)
 
 The National Museum of the U.S. Air Force, located at Wright-Patterson Air Force Base near Dayton, Ohio, is the world’s largest military aviation museum. With free admission and parking, the museum features more than 350 aerospace vehicles and missiles and thousands of artifacts amid more than 19 acres of indoor exhibit space.
+
 - Free
 
 ## 31. Kings Island
+
 [Kings Island Website](https://www.visitkingsisland.com/)
 
 Kings Island is a popular amusement park located in Mason, Ohio, just north of Cincinnati. It offers a variety of rides and attractions for visitors of all ages, including roller coasters, water rides, thrill rides, family rides, and kids' rides. Some of the most popular attractions at Kings Island include the Beast, the Banshee, Diamondback, Mystic Timbers, and the Firehawk
