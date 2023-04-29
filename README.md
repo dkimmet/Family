@@ -59,6 +59,8 @@ Spend a day at the Columbus Zoo and Aquarium, one of the best zoos in the countr
 
 [Event Website](https://www.columbuszoo.org/events/zoombezi-bay-waterpark-after-dark-0)
 
+![crew](/assets/ZB-summer.png)
+
 Due to popular demand, Water Park After Dark is back in 2023!
 
 Enjoy some of Zoombezi Bay’s most popular water attractions after dark with only a limited number of guests in attendance. For this exclusive 21+ event, you’ll get to enjoy these attractions with minimal wait times, a DJ onsite to provide fun musical entertainment, 2 complimentary beverages (additional beverages onsite for purchase), and more!
