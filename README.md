@@ -74,6 +74,7 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 ## 6. Columbus Crew (July 23, 31)
 
 [Schedule Website](https://www.columbuscrew.com/schedule/matches#competition=all&date=2023-04-26)
+
 [Pre book parking](https://arenadistrict.parkmobile.io/lower-com-field)
 
 - Home Games:
