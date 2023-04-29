@@ -71,7 +71,11 @@ Enjoy some of Zoombezi Bay’s most popular water attractions after dark with on
 Tickets are limited and will only be sold online, so act fast and get yours today. Must be 21+. Zoo admission not included (the Zoo will be closed). Parking is complimentary.
 
 ## 5. Art and Culture Day
-
+![Theatre](/assets/Theatre.jpg)
+ 
+[Columbus Museum of Art Website](https://www.columbusmuseum.org/)  
+[Franklin Park Conservatory and Botanical Gardens Website](https://www.fpconservatory.org/)  
+[Theatre Website](https://www.capa.com/venues/detail/ohio-theatre) 
 - Visit the Columbus Museum of Art, known for its diverse collection of American and European art, as well as its contemporary works.
 - Explore the Franklin Park Conservatory and Botanical Gardens, featuring beautiful botanical displays, art installations, and outdoor gardens.
 - Catch a performance at the historic Ohio Theatre, a beautifully restored theater that hosts concerts, Broadway shows, and other performances.
