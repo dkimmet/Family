@@ -74,10 +74,14 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 ## 6. Columbus Crew (July 23, 31)
 
 [Schedule Website](https://www.columbuscrew.com/schedule/matches#competition=all&date=2023-04-26)
+[Pre book parking](https://arenadistrict.parkmobile.io/lower-com-field)
 
 - Home Games:
   - July 23 - St. Louis - TBA
   - July 31 - América - TBA
+- Tailgate in the lot north of the stadium or hit bars or restaurants in the arena district beforehand. 
+- Betty’s is fun to pre game by the stadium, cheap drinks
+- Cashless stadium
 
 ## 7. Columbus Clippers
 
