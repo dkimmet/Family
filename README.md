@@ -83,7 +83,7 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 
 ## 6. Columbus Crew (July 23, 31)
 
-![crew](/assets/crew2.png)
+![crew](/assets/crew.jpg)
 
 [Schedule Website](https://www.columbuscrew.com/schedule/matches#competition=all&date=2023-04-26)  
 [Virtual Seat Viewer](https://www.lowerfieldcbus.com/seatviewer/)  
@@ -98,9 +98,13 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 
 ## 7. Columbus Clippers
 
+![Clippers](/assets/Clippers.jpg)
+
 [Schedule Website](https://www.milb.com/columbus/schedule/2023-07)
 
 ## 8. Day trip to Hocking Hills State Park
+
+![Hocking Hills State Park](/assets/Hocking.jpg)
 
 [Park Website](https://ohiodnr.gov/go-and-do/plan-a-visit/find-a-property/hocking-hills-state-park)
 
@@ -109,6 +113,9 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 - Go hiking, rock climbing, or zip-lining, and enjoy the beautiful scenery of this picturesque park.
 
 ## 9. Brewery District/ Distillery Tour
+
+![ Brewery District](/assets/Distillery.jpg)
+
 
 [District Website](https://columbusbrewerydistrict.com/)
 
