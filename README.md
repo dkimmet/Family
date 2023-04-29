@@ -123,6 +123,8 @@ In the hip Brewery District, craft beer bars and music venues occupy converted V
 
 ## 10. Columbus Commons - multiple events/food
 
+![Columbus Commons](/assets/Columbus_Commons.jpg)
+
 [Commons Website](https://columbuscommons.org/)
 
 - TORTILLA STREET FOOD
@@ -134,6 +136,8 @@ In the hip Brewery District, craft beer bars and music venues occupy converted V
 - LOCAL + LIVE CONCERT: MOUNTAIN ROCK + COUNTRY
 
 ## 11. Miami Valley Gaming
+
+![Miami Valley Gaming](/assets/Gaming.jpg)
 
 [Miami Valley Gaming Website](https://miamivalleygaming.com/)
 
