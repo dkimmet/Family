@@ -71,12 +71,14 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 - Explore the Franklin Park Conservatory and Botanical Gardens, featuring beautiful botanical displays, art installations, and outdoor gardens.
 - Catch a performance at the historic Ohio Theatre, a beautifully restored theater that hosts concerts, Broadway shows, and other performances.
 
-## 6. Columbus Crew (July 23, 31)
+## 6. Columbus Crew (July 23, 31) 
+
 
 [Schedule Website](https://www.columbuscrew.com/schedule/matches#competition=all&date=2023-04-26)
 
 [Pre book parking](https://arenadistrict.parkmobile.io/lower-com-field)
 
+![crew](/assets/crew2.png)
 - Home Games:
   - July 23 - St. Louis - TBA
   - July 31 - América - TBA
