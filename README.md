@@ -53,6 +53,7 @@ A riverfront park with beautiful views of the skyline.Visit the Ohio Statehouse,
 Just south of downtown Columbus lies German Village, one of the most idyllic neighborhoods in the country. Built by German settlers hundreds of years ago, the area is defined by its brick homes and shops, as well as brick-lined streets. Historic charm and modern tweaks exist side by side here. Peruse local businesses that include delicious pastry and coffee shops, the truly unique 32-room Book Loft , free Shakespeare at the neighborhood’s Schiller Park and beautiful holiday lights and markets during the winter.
 
 ## 3. Columbus Zoo
+![columbus_zoo](/assets/columbus_zoo.jpg)  
 
 [Columbus Zoo](https://www.columbuszoo.org/)
 
