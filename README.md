@@ -34,6 +34,7 @@
 ---
 
 ## 1. Scioto Audubon Metro Park/Scioto mile
+![Scioto](/assets/Scioto.jpg)
 
 [Scioto website](https://www.metroparks.net/parks-and-trails/scioto-audubon/#canoeing-kayaking)
 
@@ -44,6 +45,8 @@ A riverfront park with beautiful views of the skyline.Visit the Ohio Statehouse,
 - Tours
 
 ## 2. German Village
+
+![german](/assets/german.jpg)
 
 [German Village Website](https://www.experiencecolumbus.com/neighborhoods/german-village-and-brewery-district/)
 
