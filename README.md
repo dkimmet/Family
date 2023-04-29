@@ -76,7 +76,7 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 
 [Schedule Website](https://www.columbuscrew.com/schedule/matches#competition=all&date=2023-04-26)
 
-[Virtual Seat Viewer](lowerfieldcbus.com/seatviewer/)
+[Virtual Seat Viewer](https://www.lowerfieldcbus.com/seatviewer/)
 
 [Pre book parking](https://arenadistrict.parkmobile.io/lower-com-field)
 
