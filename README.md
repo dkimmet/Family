@@ -285,6 +285,8 @@ The National Museum of the U.S. Air Force, located at Wright-Patterson Air Force
 ## 31. Kings Island
 [Kings Island Website](https://www.visitkingsisland.com/)
 
+Kings Island is a popular amusement park located in Mason, Ohio, just north of Cincinnati. It offers a variety of rides and attractions for visitors of all ages, including roller coasters, water rides, thrill rides, family rides, and kids' rides. Some of the most popular attractions at Kings Island include the Beast, the Banshee, Diamondback, Mystic Timbers, and the Firehawk
+
 ## 32. Reddit's Places to Visit and Eat
 
 [Visit and Eat](https://www.reddit.com/r/Columbus/wiki/index/#wiki_places_to_visit)
