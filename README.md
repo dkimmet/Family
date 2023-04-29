@@ -46,7 +46,7 @@ A riverfront park with beautiful views of the skyline.Visit the Ohio Statehouse,
 
 ## 2. German Village
 
-![german](/assets/german.jpg)
+![german](/assets/german1.jpg)
 
 [German Village Website](https://www.experiencecolumbus.com/neighborhoods/german-village-and-brewery-district/)
 
