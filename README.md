@@ -198,6 +198,8 @@ Attendees can look forward to sipping on a diverse selection of wines while enjo
 
 ## 17. College Rock Climbing Day - $9
 
+![College Rock Climbing Day](/assets/rock.jpg)
+
 [Event Website](https://5.life/va/)
 
 Everyone deserves the opportunity to climb and connect with people. In upholding one of 5.Life’s core values – HEART – we are offering specially designated days to encourage connection and diversity as well as making climbing more accessible.
@@ -206,9 +208,13 @@ On these specified days, 5.Life offers discounted day passes ($9) to specified g
 
 ## 18. Billy Joel-Stevie Nicks - Ohio Stadium - Aug 5
 
+![Billy Joel-Stevie Nicks](/assets/Billy-Joel-Stevie-Nicks.webp)
+
 [Event Website](https://www.schottensteincenter.com/events/detail/billy-joel-stevie-nicks)
 
 ## 19. LVL UP Sports Paintball Park - 2 HOURS OF PRIVATE GAMES $349/10 players = 34.90 per player
+
+![LVL UP Sports Paintball Park](/assets/Paintball%20.jpg)
 
 [Pricing Link](https://lvlupsports.com/columbus-paintball-pricing/)
 
@@ -228,11 +234,15 @@ BASIC PARTY Pack
 
 ## 20. Topgolf
 
+![Topgolf](/assets/golf.jpg)
+
 [Topgolf Website](https://topgolf.com/us/columbus/)
 
 Welcome to Topgolf Columbus, the premier entertainment destination in Columbus, OH. Enjoy our climate-controlled hitting bays for year-round comfort with HDTVs in every bay and throughout our sports bar and restaurant. Using our complimentary clubs or your own, take aim at the giant outfield targets and our high-tech balls will score themselves.
 
 ## 21. Cedar Point
+
+![Cedar Point](/assets/Cedar.jpeg)
 
 [Cedar Point Website](https://www.cedarpoint.com/)
 
@@ -240,11 +250,15 @@ If you're a thrill-seeker, visit Cedar Point, one of the top amusement parks in 
 
 ## 22. Ohio Amish Country
 
+![Ohio Amish Country](/assets/Amish.jpg)
+
 [Amish Website](https://www.visitamishcountry.com/)
 
 Explore Ohio's Amish Country, located in the northeastern part of the state. Experience the unique Amish culture, enjoy delicious homemade Amish food, shop for handmade crafts, and take a scenic drive through the picturesque countryside.
 
 ## 23. Putt N Play
+
+![Putt N Play](/assets/putt.jpg)
 
 [Putt N Play Website](puttnplayfuncenter.com)
 
@@ -254,6 +268,8 @@ Explore Ohio's Amish Country, located in the northeastern part of the state. Exp
 - ​$20.00 - All day golf pass
 
 ## 24. Disc Golf
+
+![Disc Golf](/assets/disk.avif)
 
 [Disc golf courses](http://www.discgolfcolumbus.com/courses/overview.htm)
 
@@ -275,6 +291,8 @@ Explore Ohio's Amish Country, located in the northeastern part of the state. Exp
 
 ## 25. Trapper John's Canoe Livery
 
+![Trapper John's Canoe Livery](/assets/canoe.png)
+
 [Pricing Website](https://www.trapperjohnscanoeing.com/copy-of-rules-helpful-hints)
 
 - ALL RENTALS INCLUDE
@@ -288,6 +306,8 @@ Explore Ohio's Amish Country, located in the northeastern part of the state. Exp
 
 ## 26. Jazz and Rib Fest 2023 (July 21, 22, 23)
 
+![Jazz and Rib Fest 2023](/assets/ribs.webp)
+
 [Event Website](https://www.hotribscooljazz.org/about-the-event/)
 
 - Friday, July 21: 11 a.m. – 11 p.m.
@@ -298,6 +318,8 @@ Explore Ohio's Amish Country, located in the northeastern part of the state. Exp
 
 ## 27. Ohio State Fair - JULY 26 - AUGUST 6, 2023
 
+![Ohio State Fair](/assets/Fair.jpg)
+
 [Ohio State Fair Website](https://www.ohiostatefair.com/)
 
 Discover the Ohio State Fair, a favorite family tradition since 1850! Come for the Midway, featuring more than 50 exhilarating rides, and unleash all the fair flavors on your tastebuds with your favorite goodies from one of the amazing food vendors!
@@ -305,6 +327,8 @@ Discover the Ohio State Fair, a favorite family tradition since 1850! Come for t
 Experience free stages with amazing hypnotists, impressive magicians and wholesome kids' entertainment. Immerse yourself in activities and exhibits including interactive educational displays, sporting competitions, fine arts show, exotic animals in the free petting zoo, a farm animal delivery room, helicopter rides, roving performers, youth agricultural competitions, horse shows, an eight acre natural resources park with free kiddie fishing, wildlife and so much more!
 
 ## 28. 16-bit Bar+Arcade or Level one Bar
+
+![16-bit Bar+Arcade or Level one Bar](/assets/bar.jpg)
 
 [16-bit Bar+Arcade Website](https://www.16-bitbar.com/)
 
@@ -314,9 +338,13 @@ Experience free stages with amazing hypnotists, impressive magicians and wholeso
 
 ## 29. Cincinnati Reds
 
+![Cincinnati Reds](/assets/reds.png)
+
 [Reds July Schedule](https://www.mlb.com/reds/schedule/2023-07)
 
 ## 30. National Museum USAF
+
+![National Museum USAF](/assets/air.jpg)
 
 [More Info](https://www.nationalmuseum.af.mil/Visit/)
 
@@ -326,10 +354,14 @@ The National Museum of the U.S. Air Force, located at Wright-Patterson Air Force
 
 ## 31. Kings Island
 
+![Kings Island](/assets/Kings.jpg)
+
 [Kings Island Website](https://www.visitkingsisland.com/)
 
 Kings Island is a popular amusement park located in Mason, Ohio, just north of Cincinnati. It offers a variety of rides and attractions for visitors of all ages, including roller coasters, water rides, thrill rides, family rides, and kids' rides. Some of the most popular attractions at Kings Island include the Beast, the Banshee, Diamondback, Mystic Timbers, and the Firehawk
 
 ## 32. Reddit's Places to Visit and Eat
+
+![Reddit's Places to Visit and Eat](/assets/reddit.png)
 
 [Visit and Eat](https://www.reddit.com/r/Columbus/wiki/index/#wiki_places_to_visit)
