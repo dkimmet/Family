@@ -362,6 +362,6 @@ Kings Island is a popular amusement park located in Mason, Ohio, just north of C
 
 ## 32. Reddit's Places to Visit and Eat
 
-![Reddit's Places to Visit and Eat](/assets/reddit.png)
+![Reddit's Places to Visit and Eat](/assets/reddit_logo.png)
 
 [Visit and Eat](https://www.reddit.com/r/Columbus/wiki/index/#wiki_places_to_visit)
