@@ -34,6 +34,7 @@
 ---
 
 ## 1. Scioto Audubon Metro Park/Scioto mile
+
 ![Scioto](/assets/Scioto.jpg)
 
 [Scioto website](https://www.metroparks.net/parks-and-trails/scioto-audubon/#canoeing-kayaking)
@@ -53,7 +54,8 @@ A riverfront park with beautiful views of the skyline.Visit the Ohio Statehouse,
 Just south of downtown Columbus lies German Village, one of the most idyllic neighborhoods in the country. Built by German settlers hundreds of years ago, the area is defined by its brick homes and shops, as well as brick-lined streets. Historic charm and modern tweaks exist side by side here. Peruse local businesses that include delicious pastry and coffee shops, the truly unique 32-room Book Loft , free Shakespeare at the neighborhood’s Schiller Park and beautiful holiday lights and markets during the winter.
 
 ## 3. Columbus Zoo
-![columbus_zoo](/assets/columbus_zoo.jpg)  
+
+![columbus_zoo](/assets/columbus_zoo.jpg)
 
 [Columbus Zoo](https://www.columbuszoo.org/)
 
@@ -72,11 +74,13 @@ Enjoy some of Zoombezi Bay’s most popular water attractions after dark with on
 Tickets are limited and will only be sold online, so act fast and get yours today. Must be 21+. Zoo admission not included (the Zoo will be closed). Parking is complimentary.
 
 ## 5. Art and Culture Day
+
 ![Theatre](/assets/Theatre.jpg)
- 
+
 [Columbus Museum of Art Website](https://www.columbusmuseum.org/)  
 [Franklin Park Conservatory and Botanical Gardens Website](https://www.fpconservatory.org/)  
-[Theatre Website](https://www.capa.com/venues/detail/ohio-theatre) 
+[Theatre Website](https://www.capa.com/venues/detail/ohio-theatre)
+
 - Visit the Columbus Museum of Art, known for its diverse collection of American and European art, as well as its contemporary works.
 - Explore the Franklin Park Conservatory and Botanical Gardens, featuring beautiful botanical displays, art installations, and outdoor gardens.
 - Catch a performance at the historic Ohio Theatre, a beautifully restored theater that hosts concerts, Broadway shows, and other performances.
@@ -87,7 +91,7 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 
 [Schedule Website](https://www.columbuscrew.com/schedule/matches#competition=all&date=2023-04-26)  
 [Virtual Seat Viewer](https://www.lowerfieldcbus.com/seatviewer/)  
-[Pre book parking](https://arenadistrict.parkmobile.io/lower-com-field)  
+[Pre book parking](https://arenadistrict.parkmobile.io/lower-com-field)
 
 - Home Games:
   - July 23 - St. Louis - TBA
@@ -115,7 +119,6 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 ## 9. Brewery District/ Distillery Tour
 
 ![ Brewery District](/assets/Distillery.jpg)
-
 
 [District Website](https://columbusbrewerydistrict.com/)
 
@@ -145,17 +148,23 @@ Casino featuring slot games, restaurants & a harness racing track with a 1,000-s
 
 ## 12. ZipZone Outdoor Adventures
 
+![ZipZone Outdoor Adventures](/assets/Zip.jpg)
+
 [Adventures Website](https://zipzonetours.com/)
 
 ZipZone is a one of a kind, outdoor experience located right in the heart of Columbus, Ohio. Offering zip line tours, a tree top obstacle course, and a ground level kids park, ZipZone offers unique adventures for the whole family. Using only top of the line equipment, our highly trained staff work hard to make sure guests have a great time no matter which adventure they choose. Locally owned and operated since 2012.
 
 ## 13. Columbus Symphony Orchestra
 
+![Columbus Symphony Orchestra](/assets/Symphony.webp)
+
 [Orchestra Events](https://columbussymphony.com/events)
 
 Since 1951, the Columbus Symphony (CSO) has been proud to serve as central Ohio’s flagship music performance organization. The CSO’s musicians, conductors, chorus, and world-renowned guest artists enrich the central Ohio community through extraordinary talent, passion, dedication, and the highest standards of musicianship. Living and working in the community, CSO musicians are interwoven throughout the region’s cultural fabric, accompanying performances by other companies, performing in other local orchestras, and teaching and coaching young musicians.
 
 ## 14. Funny Bone
+
+![Funny Bone](/assets/funny.jpg)
 
 [Funny Bone Events](https://columbus.funnybone.com/ComedyClub/835a5551-0c03-4271-9a36-6bce765bcde3/Calendar/columbus)
 
@@ -164,6 +173,8 @@ _Check for events_
 Comedy chain outpost hosting local & major talent, with the option of casual American dining.
 
 ## 15. Columbus Food Adventures - $68
+
+![Columbus Food Adventures](/assets/food.png)
 
 [Tours Website](https://www.columbusfoodadventures.com/tours)
 
@@ -174,6 +185,8 @@ Join us in our comfortable 14-passenger van and learn about the cuisines and cul
 This food tour is priced at **$68** and includes: tastings at five stops; air-conditioned van transportation and an experienced guide with plenty of local culinary knowledge. This tour runs on Friday evenings at 6pm. If you would like to be wait listed for a tour date that is sold out please email waitlist@columbusfoodadventures.com
 
 ## 16. Columbus Summer Wine Festival (July 15) - $15-30
+
+![Columbus Summer Wine Festival](/assets/wine.jpeg)
 
 [Festival Website](https://columbuswinefest.com/)
 
