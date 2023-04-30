@@ -45,8 +45,6 @@ A riverfront park with beautiful views of the skyline.Visit the Ohio Statehouse,
 - Paddleboarding
 - Tours
 
----
-
 ## 2. German Village
 
 ![german](/assets/german1.jpg)
@@ -55,8 +53,6 @@ A riverfront park with beautiful views of the skyline.Visit the Ohio Statehouse,
 
 Just south of downtown Columbus lies German Village, one of the most idyllic neighborhoods in the country. Built by German settlers hundreds of years ago, the area is defined by its brick homes and shops, as well as brick-lined streets. Historic charm and modern tweaks exist side by side here. Peruse local businesses that include delicious pastry and coffee shops, the truly unique 32-room Book Loft , free Shakespeare at the neighborhood’s Schiller Park and beautiful holiday lights and markets during the winter.
 
----
-
 ## 3. Columbus Zoo
 
 ![columbus_zoo](/assets/columbus_zoo.jpg)
@@ -64,8 +60,6 @@ Just south of downtown Columbus lies German Village, one of the most idyllic nei
 [Columbus Zoo](https://www.columbuszoo.org/)
 
 Spend a day at the Columbus Zoo and Aquarium, one of the best zoos in the country, known for its extensive collection of animals and conservation efforts.Enjoy the various exhibits, shows, and encounters with animals.
-
----
 
 ## 4. Zoombezi Bay Waterpark After Dark (AUG 18 -8:00 p.m. – 11:00 p.m.) $35.00
 
@@ -79,8 +73,6 @@ Enjoy some of Zoombezi Bay’s most popular water attractions after dark with on
 
 Tickets are limited and will only be sold online, so act fast and get yours today. Must be 21+. Zoo admission not included (the Zoo will be closed). Parking is complimentary.
 
----
-
 ## 5. Art and Culture Day
 
 ![Theatre](/assets/Theatre.jpg)
@@ -92,8 +84,6 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 - Visit the Columbus Museum of Art, known for its diverse collection of American and European art, as well as its contemporary works.
 - Explore the Franklin Park Conservatory and Botanical Gardens, featuring beautiful botanical displays, art installations, and outdoor gardens.
 - Catch a performance at the historic Ohio Theatre, a beautifully restored theater that hosts concerts, Broadway shows, and other performances.
-
----
 
 ## 6. Columbus Crew (July 23, 31)
 
@@ -110,15 +100,11 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 - Betty’s is fun to pre game by the stadium, cheap drinks
 - Cashless stadium
 
----
-
 ## 7. Columbus Clippers
 
 ![Clippers](/assets/Clippers.jpg)
 
 [Schedule Website](https://www.milb.com/columbus/schedule/2023-07)
-
----
 
 ## 8. Day trip to Hocking Hills State Park
 
@@ -130,8 +116,6 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 - Explore the park's stunning natural features, including waterfalls, caves, and hiking trails.
 - Go hiking, rock climbing, or zip-lining, and enjoy the beautiful scenery of this picturesque park.
 
----
-
 ## 9. Brewery District/ Distillery Tour
 
 ![ Brewery District](/assets/Distillery.jpg)
@@ -139,8 +123,6 @@ Tickets are limited and will only be sold online, so act fast and get yours toda
 [District Website](https://columbusbrewerydistrict.com/)
 
 In the hip Brewery District, craft beer bars and music venues occupy converted Victorian breweries. The area’s lively dining scene encompasses gastropubs, tapas spots, and farm-to-table restaurants. Shadowbox Live stages experimental theater, comedy, and dance.
-
----
 
 ## 10. Columbus Commons - multiple events/food
 
@@ -164,8 +146,6 @@ In the hip Brewery District, craft beer bars and music venues occupy converted V
 
 Casino featuring slot games, restaurants & a harness racing track with a 1,000-seat grandstand.
 
----
-
 ## 12. ZipZone Outdoor Adventures
 
 ![ZipZone Outdoor Adventures](/assets/Zip.jpg)
@@ -174,8 +154,6 @@ Casino featuring slot games, restaurants & a harness racing track with a 1,000-s
 
 ZipZone is a one of a kind, outdoor experience located right in the heart of Columbus, Ohio. Offering zip line tours, a tree top obstacle course, and a ground level kids park, ZipZone offers unique adventures for the whole family. Using only top of the line equipment, our highly trained staff work hard to make sure guests have a great time no matter which adventure they choose. Locally owned and operated since 2012.
 
----
-
 ## 13. Columbus Symphony Orchestra
 
 ![Columbus Symphony Orchestra](/assets/Symphony.webp)
@@ -183,8 +161,6 @@ ZipZone is a one of a kind, outdoor experience located right in the heart of Col
 [Orchestra Events](https://columbussymphony.com/events)
 
 Since 1951, the Columbus Symphony (CSO) has been proud to serve as central Ohio’s flagship music performance organization. The CSO’s musicians, conductors, chorus, and world-renowned guest artists enrich the central Ohio community through extraordinary talent, passion, dedication, and the highest standards of musicianship. Living and working in the community, CSO musicians are interwoven throughout the region’s cultural fabric, accompanying performances by other companies, performing in other local orchestras, and teaching and coaching young musicians.
-
----
 
 ## 14. Funny Bone
 
@@ -195,8 +171,6 @@ Since 1951, the Columbus Symphony (CSO) has been proud to serve as central Ohio�
 _Check for events_
 
 Comedy chain outpost hosting local & major talent, with the option of casual American dining.
-
----
 
 ## 15. Columbus Food Adventures - $68
 
@@ -210,8 +184,6 @@ Join us in our comfortable 14-passenger van and learn about the cuisines and cul
 
 This food tour is priced at **$68** and includes: tastings at five stops; air-conditioned van transportation and an experienced guide with plenty of local culinary knowledge. This tour runs on Friday evenings at 6pm. If you would like to be wait listed for a tour date that is sold out please email waitlist@columbusfoodadventures.com
 
----
-
 ## 16. Columbus Summer Wine Festival (July 15) - $15-30
 
 ![Columbus Summer Wine Festival](/assets/wine.jpeg)
@@ -224,8 +196,6 @@ The Columbus Summer Wine Festival has been a popular event that celebrates a var
 
 Attendees can look forward to sipping on a diverse selection of wines while enjoying live music, food trucks, and artisan vendors. From dry reds to sweet whites, there will be a wine for every palate.
 
----
-
 ## 17. College Rock Climbing Day - $9
 
 ![College Rock Climbing Day](/assets/rock.jpg)
@@ -236,15 +206,11 @@ Everyone deserves the opportunity to climb and connect with people. In upholding
 
 On these specified days, 5.Life offers discounted day passes ($9) to specified groups. Rental gear is included. We will apply commonly accepted definitions of these various groups and how individuals identify. Please respect and honor these defined groups to keep climbing available for everyone.
 
----
-
 ## 18. Billy Joel-Stevie Nicks - Ohio Stadium - Aug 5
 
 ![Billy Joel-Stevie Nicks](/assets/Billy-Joel-Stevie-Nicks.webp)
 
 [Event Website](https://www.schottensteincenter.com/events/detail/billy-joel-stevie-nicks)
-
----
 
 ## 19. LVL UP Sports Paintball Park - 2 HOURS OF PRIVATE GAMES $349/10 players = 34.90 per player
 
@@ -266,8 +232,6 @@ BASIC PARTY Pack
 - Free use of our large community outdoor covered pavilion & picnic tables to hang out before, during and after your party.
 - Choose between regular paintballs (ages 10+) or low impact paintballs (ages 8+)
 
----
-
 ## 20. Topgolf
 
 ![Topgolf](/assets/golf.jpg)
@@ -275,8 +239,6 @@ BASIC PARTY Pack
 [Topgolf Website](https://topgolf.com/us/columbus/)
 
 Welcome to Topgolf Columbus, the premier entertainment destination in Columbus, OH. Enjoy our climate-controlled hitting bays for year-round comfort with HDTVs in every bay and throughout our sports bar and restaurant. Using our complimentary clubs or your own, take aim at the giant outfield targets and our high-tech balls will score themselves.
-
----
 
 ## 21. Cedar Point
 
@@ -286,8 +248,6 @@ Welcome to Topgolf Columbus, the premier entertainment destination in Columbus, 
 
 If you're a thrill-seeker, visit Cedar Point, one of the top amusement parks in the world, located in Sandusky. With its world-class roller coasters and thrilling rides, Cedar Point is a must-visit for adrenaline junkies.
 
----
-
 ## 22. Ohio Amish Country
 
 ![Ohio Amish Country](/assets/Amish.jpg)
@@ -295,8 +255,6 @@ If you're a thrill-seeker, visit Cedar Point, one of the top amusement parks in 
 [Amish Website](https://www.visitamishcountry.com/)
 
 Explore Ohio's Amish Country, located in the northeastern part of the state. Experience the unique Amish culture, enjoy delicious homemade Amish food, shop for handmade crafts, and take a scenic drive through the picturesque countryside.
-
----
 
 ## 23. Putt N Play
 
@@ -308,8 +266,6 @@ Explore Ohio's Amish Country, located in the northeastern part of the state. Exp
   -$9.00 - Adults (12 yrs old and up)
 - $4.00 - Each additional round of golf
 - ​$20.00 - All day golf pass
-
----
 
 ## 24. Disc Golf
 
@@ -333,8 +289,6 @@ Explore Ohio's Amish Country, located in the northeastern part of the state. Exp
 
 - veterans memorial and Scioto grove are serviceable but I’d hit the other ones first
 
----
-
 ## 25. Trapper John's Canoe Livery
 
 ![Trapper John's Canoe Livery](/assets/canoe.png)
@@ -350,8 +304,6 @@ Explore Ohio's Amish Country, located in the northeastern part of the state. Exp
   - All of the fun and excitement you can muster up
   - Knowledgeable and courteous service from our staff
 
----
-
 ## 26. Jazz and Rib Fest 2023 (July 21, 22, 23)
 
 ![Jazz and Rib Fest 2023](/assets/ribs.webp)
@@ -364,8 +316,6 @@ Explore Ohio's Amish Country, located in the northeastern part of the state. Exp
   LOCATION:
   Located along the beautiful Scioto Mile downtown riverfront in Columbus, Ohio.
 
----
-
 ## 27. Ohio State Fair - JULY 26 - AUGUST 6, 2023
 
 ![Ohio State Fair](/assets/Fair.jpg)
@@ -375,8 +325,6 @@ Explore Ohio's Amish Country, located in the northeastern part of the state. Exp
 Discover the Ohio State Fair, a favorite family tradition since 1850! Come for the Midway, featuring more than 50 exhilarating rides, and unleash all the fair flavors on your tastebuds with your favorite goodies from one of the amazing food vendors!
 
 Experience free stages with amazing hypnotists, impressive magicians and wholesome kids' entertainment. Immerse yourself in activities and exhibits including interactive educational displays, sporting competitions, fine arts show, exotic animals in the free petting zoo, a farm animal delivery room, helicopter rides, roving performers, youth agricultural competitions, horse shows, an eight acre natural resources park with free kiddie fishing, wildlife and so much more!
-
----
 
 ## 28. 16-bit Bar+Arcade or Level one Bar
 
@@ -388,15 +336,11 @@ Experience free stages with amazing hypnotists, impressive magicians and wholeso
 
 16-Bit Bar + Arcade redefines how a night out is best played. With a name coined from the computer architecture that several of our 40+ vintage arcade games were built on, 16-Bit appeals to those looking for an alternative to the monotonous. From bar-going veterans to young open-minded, beer-centric types, to arcade game novices and enthusiasts, the nostalgic and playful vibe is for players of all types. The time has come to relive your childhood and party like it’s 1999, or 1989 for that matter.
 
----
-
 ## 29. Cincinnati Reds
 
 ![Cincinnati Reds](/assets/reds.png)
 
 [Reds July Schedule](https://www.mlb.com/reds/schedule/2023-07)
-
----
 
 ## 30. National Museum USAF
 
@@ -408,8 +352,6 @@ The National Museum of the U.S. Air Force, located at Wright-Patterson Air Force
 
 - Free
 
----
-
 ## 31. Kings Island
 
 ![Kings Island](/assets/Kings.jpg)
@@ -417,8 +359,6 @@ The National Museum of the U.S. Air Force, located at Wright-Patterson Air Force
 [Kings Island Website](https://www.visitkingsisland.com/)
 
 Kings Island is a popular amusement park located in Mason, Ohio, just north of Cincinnati. It offers a variety of rides and attractions for visitors of all ages, including roller coasters, water rides, thrill rides, family rides, and kids' rides. Some of the most popular attractions at Kings Island include the Beast, the Banshee, Diamondback, Mystic Timbers, and the Firehawk
-
----
 
 ## 32. Reddit's Places to Visit and Eat
 
