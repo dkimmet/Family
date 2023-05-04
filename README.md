@@ -214,7 +214,7 @@ On these specified days, 5.Life offers discounted day passes ($9) to specified g
 
 ## 19. LVL UP Sports Paintball Park - 2 HOURS OF PRIVATE GAMES $349/10 players = 34.90 per player
 
-![LVL UP Sports Paintball Park](/assets/Paintball%20.jpg)
+![LVL UP Sports Paintball Park](/assets/Paintball.jpg)
 
 [Pricing Link](https://lvlupsports.com/columbus-paintball-pricing/)
 
