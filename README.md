@@ -29,7 +29,8 @@
 - [29. Cincinnati Reds](#29-cincinnati-reds)
 - [30. National Museum USAF](#30-national-museum-usaf)
 - [31. Kings Island](#31-kings-island)
-- [32. Reddit's Places to Visit and Eat](#32-reddits-places-to-visit-and-eat)
+- [32. Dublin Irish Festival - August 4–6, 2023, Coffman Park](#32-dublin-irish-festival---august-46-2023-coffman-park)
+- [33. Reddit's Places to Visit and Eat](#33-reddits-places-to-visit-and-eat)
 
 ---
 
@@ -360,7 +361,15 @@ The National Museum of the U.S. Air Force, located at Wright-Patterson Air Force
 
 Kings Island is a popular amusement park located in Mason, Ohio, just north of Cincinnati. It offers a variety of rides and attractions for visitors of all ages, including roller coasters, water rides, thrill rides, family rides, and kids' rides. Some of the most popular attractions at Kings Island include the Beast, the Banshee, Diamondback, Mystic Timbers, and the Firehawk
 
-## 32. Reddit's Places to Visit and Eat
+## 32. Dublin Irish Festival - August 4–6, 2023, Coffman Park
+
+![Dublin Irish Festival](/assets/Irish.png)
+
+[Dublin Irish Festival Website](https://dublinirishfestival.org/)
+
+The world’s largest three-day Irish festival is held in Dublin annually, and in 2022, the festival celebrates 35 years! Irish and the Irish-at-heart are invited to share and celebrate the best in Irish dance, music, art and culture.
+
+## 33. Reddit's Places to Visit and Eat
 
 ![Reddit's Places to Visit and Eat](/assets/reddit_logo.png)
 
